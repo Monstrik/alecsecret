@@ -1,3 +1,2 @@
-# Alec secret service
-[Try it live](https://monstrik.github.io/alecsecret/)
+# Alec's Safe Secret service [Try it live](https://monstrik.github.io/alecsecret/)
 
